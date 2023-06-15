@@ -1,0 +1,93 @@
+<RCC>
+  <qresource prefix="number">
+    <file>image/序号1.png</file>
+    <file>image/序号2.png</file>
+    <file>image/序号3.png</file>
+  </qresource>
+  <qresource prefix="ECC">
+    <file>image/ECC14.png</file>
+    <file>image/ECC15.png</file>
+    <file>image/ECC11.png</file>
+    <file>image/ECC12.png</file>
+    <file>image/ECC13.png</file>
+    <file>image/ECC7.png</file>
+    <file>image/ECC8.png</file>
+    <file>image/ECC9.png</file>
+    <file>image/ECC10.png</file>
+    <file>image/ECC5.png</file>
+    <file>image/ECC6.png</file>
+    <file>image/ECC4.png</file>
+    <file>image/ECC3.png</file>
+    <file>image/ECC2.png</file>
+    <file>image/ECC1.png</file>
+  </qresource>
+  <qresource prefix="EIGamal">
+    <file>image/EIGamal9.png</file>
+    <file>image/EIGamal8.png</file>
+    <file>image/EIGamal6.png</file>
+    <file>image/EIGamal7.png</file>
+    <file>image/EIGamal5.png</file>
+    <file>image/EIGamal4.png</file>
+    <file>image/EIGamal3.png</file>
+    <file>image/EIGamal2.png</file>
+    <file>image/EIGamal1.png</file>
+  </qresource>
+  <qresource prefix="other">
+    <file>image/primer.png</file>
+    <file>image/decrytion.jpg</file>
+    <file>image/encrytion.jpg</file>
+    <file>image/RSA7.jpg</file>
+    <file>image/RSA1.jpg</file>
+    <file>image/RSA6.jpg</file>
+    <file>image/RSA5.jpg</file>
+    <file>image/RSA4.jpg</file>
+    <file>image/RSA3.jpg</file>
+    <file>image/RSA2.jpg</file>
+    <file>image/minus.svg</file>
+    <file>image/全局放大1_full-screen-one.svg</file>
+    <file>image/关闭_close.svg</file>
+  </qresource>
+  <qresource prefix="Miller-Rabin">
+    <file>image/miller-Rabin17.png</file>
+    <file>image/miller-Rabin16.png</file>
+    <file>image/miller-Rabin15.png</file>
+    <file>image/miller-Rabin14.png</file>
+    <file>image/miller-Rabin13.png</file>
+    <file>image/miller-Rabin12.png</file>
+    <file>image/miller-Rabin11.png</file>
+    <file>image/miller-Rabin10.png</file>
+    <file>image/miller-Rabin9.png</file>
+    <file>image/miller-Rabin8.png</file>
+    <file>image/miller-Rabin7.png</file>
+    <file>image/miller-Rabin6.png</file>
+    <file>image/miller-Rabin5.png</file>
+    <file>image/miller-Rabin4.png</file>
+    <file>image/miller-Rabin2.png</file>
+    <file>image/miller-Rabin3.png</file>
+    <file>image/miller-Rabin1.png</file>
+  </qresource>
+  <qresource prefix="photo">
+    <file>image/头像1.jpg</file>
+    <file>image/设置.png</file>
+  </qresource>
+  <qresource prefix="encryption/decryption">
+    <file>image/CRT4.png</file>
+    <file>image/CRT3.png</file>
+    <file>image/CRT2.png</file>
+    <file>image/CRT1.png</file>
+    <file>image/CRT.png</file>
+    <file>image/input.png</file>
+  </qresource>
+  <qresource prefix="diffe-hellman">
+    <file>image/DH8.png</file>
+    <file>image/DH7.png</file>
+    <file>image/DH6.png</file>
+    <file>image/DH5.png</file>
+    <file>image/DH4.png</file>
+    <file>image/DH2.png</file>
+    <file>image/DH3.png</file>
+    <file>image/DH1.png</file>
+    <file>image/Alice .png</file>
+    <file>image/Bob.png</file>
+  </qresource>
+</RCC>
