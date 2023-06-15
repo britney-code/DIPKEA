@@ -1,5 +1,5 @@
 """
-author: (BRITNEY) wanqiang 信安1901
+author: (BRITNEY) 
 """
 import random
 import secrets
